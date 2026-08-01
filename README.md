@@ -1,2 +1,1 @@
-# smart
-smart vision
+# Welcome to your Dyad app
